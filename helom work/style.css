@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(255, 203, 210);
+    color: #1a1a1a; /* Texto em cinza escuro/quase preto para dar boa leitura */
+}
+.SOBREMIM {
+    display: flex;
+    justify-content: center;
+    align-items: center;     
+    min-height: 40vh;     
+}
